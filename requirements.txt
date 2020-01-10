@@ -1,0 +1,13 @@
+python-igraph
+scipy
+pycario
+numpy
+pandas
+statsmodels
+scikit-learn
+nltk
+seaborn
+gensim
+matplotlib
+xlrd
+wordcloud
